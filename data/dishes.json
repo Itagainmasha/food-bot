@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Американские блины",
+    "characteristics": {
+      "spiciness": 0,
+      "fried": 0.1,
+      "boiled": 0,
+      "time": 0.3,
+      "satiety": 0.5,
+      "saturation": 0.3,
+      "salinity": 0,
+      "sweetness": 0.8,
+      "dryness": 0.9
+    },
+    "image": "https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/120131085624/171210104827/p_O.jpg.webp"
+  },
+    {
+    "title": "Спагетти карбонара с красным луком",
+    "characteristics": {
+      "spiciness": 0.1,
+      "fried": 0.4,
+      "boiled": 0.8,
+      "time": 0.3,
+      "satiety": 0.8,
+      "saturation": 0.3,
+      "salinity": 0.6,
+      "sweetness": 0,
+      "dryness": 0.1
+    },
+    "image": "https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/150615095301/150617154856/p_O.jpg.webp"
+  },
+    {
+    "title": "Цветаевский яблочный пирог",
+    "characteristics": {
+      "spiciness": 0,
+      "fried": 0.1,
+      "boiled": 0.1,
+      "time": 0.5,
+      "satiety": 0.5,
+      "saturation": 0.2,
+      "salinity": 0,
+      "sweetness": 0.8,
+      "dryness": 0.8
+    },
+    "image": "https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/120131083649/170819182946/p_O.jpg.webp"
+  },
+    {
+    "title": "Острое рагу из говядины",
+    "characteristics": {
+      "spiciness": 0.9,
+      "fried": 0.5,
+      "boiled": 0.5,
+      "time": 1,
+      "satiety": 0.75,
+      "saturation": 0.7,
+      "salinity": 0.74,
+      "sweetness": 0.09,
+      "dryness": 0.1
+    },
+    "image": "https://eda.ru/img/eda/c620x415/s1.eda.ru/StaticContent/Photos/140622144901/140627134350/p_O.jpg.webp"
+  },
+  {
+    "title": "Говядина в томатном соусе с карри",
+    "characteristics": {
+      "spiciness": 0.3,
+      "fried": 0.8,
+      "boiled": 0.2,
+      "time": 0.6,
+      "satiety": 0.8,
+      "saturation": 0.8,
+      "salinity": 0.8,
+      "sweetness": 0.1,
+      "dryness": 0.5
+    },
+    "image": "https://eda.ru/img/eda/c620x415/s1.eda.ru/StaticContent/Photos/121102151737/141207014834/p_O.jpg.webp"
+  },
+  {
+    "title": "Сырный суп по-французски с курицей",
+    "characteristics": {
+      "spiciness": 0.1,
+      "fried": 0.2,
+      "boiled": 0.9,
+      "time": 1,
+      "satiety": 0.75,
+      "saturation": 0.6,
+      "salinity": 0.5,
+      "sweetness": 0.1,
+      "dryness": 0
+    },
+    "image": "https://eda.ru/img/eda/c620x415/s1.eda.ru/StaticContent/Photos/120131083619/170816150250/p_O.jpg.webp"
+  }
+  ,
+  {
+    "title": "Американский тыквенный пирог с корицей",
+    "characteristics": {
+      "spiciness": 0,
+      "fried": 0.79,
+      "boiled": 0,
+      "time": 1,
+      "satiety": 0.65,
+      "saturation": 0.59,
+      "salinity": 0,
+      "sweetness": 0.85,
+      "dryness": 0.95
+    },
+    "image": "https://eda.ru/img/eda/900x-/s1.eda.ru/StaticContent/Photos/120214140149/121007182350/p_O.jpg"
+  }
+  ,
+  {
+    "title": "Макароны, запеченные с помидорами, под сыром",
+    "characteristics": {
+      "spiciness": 0.1,
+      "fried": 0.75,
+      "boiled": 0,
+      "time": 0.33,
+      "satiety": 0.95,
+      "saturation": 0.8,
+      "salinity": 0.64,
+      "sweetness": 0.05,
+      "dryness": 0.78
+    },
+    "image": "https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/120424123536/140707095137/p_O.jpg.webp"
+  }
+    ,
+  {
+    "title": "Солянка",
+    "characteristics": {
+      "spiciness": 0.34,
+      "fried": 0.28,
+      "boiled": 0.9,
+      "time": 1,
+      "satiety": 0.95,
+      "saturation": 0.95,
+      "salinity": 0.8,
+      "sweetness": 0.1,
+      "dryness": 0.07
+    },
+    "image": "https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/120213181135/130318133553/p_O.jpg.webp"
+  }
+  ,
+  {
+    "title": "Шоколадный капкейк с кремом ганаш",
+    "characteristics": {
+      "spiciness": 0,
+      "fried": 0.7,
+      "boiled": 0.05,
+      "time": 0.5,
+      "satiety": 0.85,
+      "saturation": 0.8,
+      "salinity": 0,
+      "sweetness": 0.99,
+      "dryness": 0.95
+    },
+    "image": "https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/150601195902/150609150543/p_O.jpg.webp"
+  }
+  ,
+  {
+    "title": "Быстрый тирамису с малиной и мятой",
+    "characteristics": {
+      "spiciness": 0,
+      "fried": 0.1,
+      "boiled": 0.7,
+      "time": 0.25,
+      "satiety": 0.6,
+      "saturation": 0.76,
+      "salinity": 0,
+      "sweetness": 0.70,
+      "dryness": 0.1
+    },
+    "image": "https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/e/2c/e2c5a8cc9a35441a8769f06cf5426b22.jpg.webp"
+  }
+
+]

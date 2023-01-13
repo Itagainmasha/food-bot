@@ -1,0 +1,8 @@
+Острота spiciness
+Жаренное fried
+Варёное boiled
+Время приготовления time
+Сытность satiety
+Насыщенность saturation
+Солёность salinity
+Суховатость dryness
